@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4Vl8vWM6Cc/sfdcXHoFhY7u6Rsy7L3LSbkJ/iWWc+bR+8UcfX+w8efjwY6N1EYmSJWjth6+UuRWR1duuCv3Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio\\Desktop\\Proyecto MinTic\\Veterinaria.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Julio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
